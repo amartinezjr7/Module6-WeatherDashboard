@@ -103,7 +103,7 @@ var queryURLUV = "https://api.openweathermap.org/data/2.5/uvi?&appid=ecc0be5fd92
             weekDiv.append(h5date);
             weekDiv.append(icon);
             weekDiv.append(pTemp);
-            weekdiv.append(pHum);
+            weekDiv.append(pHum);
             $("#5day").append(weekDiv);
         }
 
