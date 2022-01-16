@@ -27,6 +27,8 @@ The following image demonstrates the application functionality:
 
 ## Finished Product
 
+[link](https://amartinezjr7.github.io/Module6-WeatherDashboard/)
+
 The final product is so that when you type in a City, the program will use the open weather Api and get the forecast for that city.
 This will include the current date displayed on the the top right, as well as the 5 day forecast displayed in 5 columns below the
 current day. You can look up multiple cities, and the history will be shown below the search bar.
